@@ -1,0 +1,15 @@
+.editor-div,.editor-input{
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: red;
+    border-style: solid;
+    box-sizing:border-box;
+    font-size:15px
+}
+.editor-div{
+    cursor: pointer;
+}
